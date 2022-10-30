@@ -5,9 +5,8 @@
   "dependencies": {
     "telegraf": "^4.10.0",
   },
+  
   "scripts": {
     "start": "node bot/bot.js",
-  },
-  
-  
+  } 
 }
